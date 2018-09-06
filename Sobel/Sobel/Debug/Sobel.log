@@ -1,0 +1,4 @@
+﻿  sobel.c
+c:\users\tyler\source\repos\robotvision\sobel\sobel\sobel.c(18): warning C4101: 'fo2': unreferenced local variable
+  Sobel.vcxproj -> C:\Users\tyler\Source\Repos\RobotVision\Sobel\Debug\Sobel.exe
+  Sobel.vcxproj -> C:\Users\tyler\Source\Repos\RobotVision\Sobel\Debug\Sobel.pdb (Partial PDB)
